@@ -150,4 +150,5 @@ conda clean -tp
 ```
 conda env remove -n cv-nd
 ```
+### Collaborations
 ![Udacity+Nvidia](https://pbs.twimg.com/media/DcsJQuVX4AAknCf.jpg)

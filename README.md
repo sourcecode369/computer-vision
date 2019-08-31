@@ -1,6 +1,5 @@
 ## Computer Vision Nanodegree Program
 ![Computer Vision Nanodegree](https://images.ctfassets.net/2y9b3o528xhq/s0S62tcq7sXKhmKGSpycr/fb972c1ca3725605b33105fcaf1fd310/nd891_open_graph.jpg)
-Implementation notebooks and scripts of the computer vision nanodegree program from udacity.
 
 This repository contains my implementation of code exercises and materials for Udacity's Computer Vision Nanodegree program. It consists of tutorial notebooks that demonstrate, or challenged me to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, I suggest that you create a local environment with these dependencies by following the instructions below.
 

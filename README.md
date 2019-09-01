@@ -8,7 +8,7 @@ This repository contains my implementation of code exercises and materials for U
 
 ### Part 1 - Introduction to Computer Vision
  - [ ] Open CV Library
- - [ ] Image Representation
+ - [x] Image Representation
  - [ ] Convolutional Filters and Edge Detection
  - [ ] Types of Features and Image Segementation
  - [ ] Feature Vectors

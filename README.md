@@ -10,7 +10,7 @@ This repository contains my implementation of code exercises and materials for U
  - [ ] Open CV Library
  - [x] Image Representation
  - [x] Convolutional Filters and Edge Detection
- - [ ] Types of Features and Image Segementation
+ - [x] Types of Features and Image Segementation
  - [ ] Feature Vectors
  - [ ] Convolutional Neural Network Layers
 ### Part 2 - Advanced Computer Vision and Deep Learning

@@ -6,25 +6,25 @@ This repository contains my implementation of code exercises and materials for U
 ## Nanodegree Syllabus
 ![YOLO](https://miro.medium.com/max/1400/1*4yMLrBPGadgWEoBu1i2jkQ.png)
 ### Part 1 - Introduction to Computer Vision
- - [ ] Open CV Library
- - [x] Image Representation
- - [x] Convolutional Filters and Edge Detection
- - [x] Types of Features and Image Segementation
- - [ ] Feature Vectors
- - [ ] Convolutional Neural Network Layers
+ ##### - [ ] Open CV Library
+ ##### - [x] Image Representation
+ ##### - [x] Convolutional Filters and Edge Detection
+ ##### - [x] Types of Features and Image Segementation
+ ##### - [x] Feature Vectors
+ ##### - [ ] Convolutional Neural Network Layers
 
 ![Advanced Computer Vision](http://densepose.org/img/anno/anno1.png)
 ### Part 2 - Advanced Computer Vision and Deep Learning
- - [ ] YOLO - You Only Look Once
- - [ ] LSTM - Long Short Term Memory 
- - [ ] Attention Mechanism in Neural Networks
+ ##### - [ ] YOLO - You Only Look Once
+ ##### - [ ] LSTM - Long Short Term Memory 
+ ##### - [ ] Attention Mechanism in Neural Networks
 
 ![Object Tracking](https://miro.medium.com/max/2224/1*ecz875HfaF_7S7hPsTc6pA.jpeg)
 ### Part 3 - Object Tracking and Localization
-  - [ ] Object Motion and Tracking 
-  - [ ] Optical Flow and Feature Matching
-  - [ ] Robot Localization
-  - [ ] Graph Slam
+  ##### - [ ] Object Motion and Tracking 
+  ##### - [ ] Optical Flow and Feature Matching
+  ##### - [ ] Robot Localization
+  ##### - [ ] Graph Slam
 
 ## Configure and Manage Your Environment with Anaconda
 

@@ -6,25 +6,25 @@ This repository contains my implementation of code exercises and materials for U
 ## Nanodegree Syllabus
 ![YOLO](https://miro.medium.com/max/1400/1*4yMLrBPGadgWEoBu1i2jkQ.png)
 ### Part 1 - Introduction to Computer Vision
- ##### - [ ] [Open CV Library](https://github.com/sourcecode369/computer-vision/tree/master/OpenCV)
- ##### - [x] [Image Representation](https://github.com/sourcecode369/computer-vision/tree/master/Image%20Representation)
- ##### - [x] [Convolutional Filters and Edge Detection](https://github.com/sourcecode369/computer-vision/tree/master/Convolutional%20Filters%20and%20Edge%20Detection)
+ #####  [ ] [Open CV Library](https://github.com/sourcecode369/computer-vision/tree/master/OpenCV)
+ #####  [x] [Image Representation](https://github.com/sourcecode369/computer-vision/tree/master/Image%20Representation)
+ #####  [x] [Convolutional Filters and Edge Detection](https://github.com/sourcecode369/computer-vision/tree/master/Convolutional%20Filters%20and%20Edge%20Detection)
  ##### - [x] [Types of Features and Image Segementation](https://github.com/sourcecode369/computer-vision/tree/master/Edge%20Detection%20and%20Image%20Segmentation)
- ##### - [x] Feature Vectors
- ##### - [ ] Convolutional Neural Network Layers
+ #####  [x] Feature Vectors
+ #####  [ ] Convolutional Neural Network Layers
 
 ![Advanced Computer Vision](http://densepose.org/img/anno/anno1.png)
 ### Part 2 - Advanced Computer Vision and Deep Learning
- ##### - [ ] YOLO - You Only Look Once
- ##### - [ ] LSTM - Long Short Term Memory 
- ##### - [ ] Attention Mechanism in Neural Networks
+ #####  [ ] YOLO - You Only Look Once
+ #####  [ ] LSTM - Long Short Term Memory 
+ #####  [ ] Attention Mechanism in Neural Networks
 
 ![Object Tracking](https://miro.medium.com/max/2224/1*ecz875HfaF_7S7hPsTc6pA.jpeg)
 ### Part 3 - Object Tracking and Localization
-  ##### - [ ] Object Motion and Tracking 
-  ##### - [ ] Optical Flow and Feature Matching
-  ##### - [ ] Robot Localization
-  ##### - [ ] Graph Slam
+  #####  [ ] Object Motion and Tracking 
+  #####  [ ] Optical Flow and Feature Matching
+  #####  [ ] Robot Localization
+  #####  [ ] Graph Slam
 
 ## Configure and Manage Your Environment with Anaconda
 

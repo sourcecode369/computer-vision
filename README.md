@@ -6,11 +6,11 @@ This repository contains my implementation of code exercises and materials for U
 ## Nanodegree Syllabus
 ![YOLO](https://miro.medium.com/max/1400/1*4yMLrBPGadgWEoBu1i2jkQ.png)
 ### Part 1 - Introduction to Computer Vision
- - [ ] [Open CV Library](https://github.com/sourcecode369/computer-vision/tree/master/OpenCV)
- - [x] [Image Representation](https://github.com/sourcecode369/computer-vision/tree/master/Image%20Representation)
- -  [x] [Convolutional Filters and Edge Detection](https://github.com/sourcecode369/computer-vision/tree/master/Convolutional%20Filters%20and%20Edge%20Detection)
- - [x] [Types of Features and Image Segementation](https://github.com/sourcecode369/computer-vision/tree/master/Edge%20Detection%20and%20Image%20Segmentation)
- - [x] Feature Vectors
+#### - [ ] [Open CV Library Fundamentals and Applications](https://github.com/sourcecode369/computer-vision/tree/master/OpenCV)
+#### - [x] [Image Representation](https://github.com/sourcecode369/computer-vision/tree/master/Image%20Representation)
+#### -  [x] [Convolutional Filters and Edge Detection](https://github.com/sourcecode369/computer-vision/tree/master/Convolutional%20Filters%20and%20Edge%20Detection)
+#### - [x] [Types of Features and Image Segementation](https://github.com/sourcecode369/computer-vision/tree/master/Edge%20Detection%20and%20Image%20Segmentation)
+#### - [x] [Feature Vectors](https://github.com/sourcecode369/computer-vision/tree/master/Feature%20Vectors)
  - [ ] Convolutional Neural Network Layers
 
 ![Advanced Computer Vision](http://densepose.org/img/anno/anno1.png)
@@ -19,7 +19,7 @@ This repository contains my implementation of code exercises and materials for U
  - [ ] LSTM - Long Short Term Memory 
  - [ ] Attention Mechanism in Neural Networks
 
-![Object Tracking](https://miro.medium.com/max/2224/1*ecz875HfaF_7S7hPsTc6pA.jpeg)
+![Object Tracking](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/03/image-segmentation.png)
 ### Part 3 - Object Tracking and Localization
  - [ ] Object Motion and Tracking 
  - [ ] Optical Flow and Feature Matching
